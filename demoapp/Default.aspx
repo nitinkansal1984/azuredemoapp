@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            Hello there ! I am really excited leaning webapp in Azure This is Stage 
+            Hello there ! I am really excited leaning webapp in Azure This is Stage....
         </div>
     </form>
 </body>
